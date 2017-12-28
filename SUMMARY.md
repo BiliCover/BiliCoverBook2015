@@ -1,8 +1,5 @@
 # Summary
 * [简介](README.md)
-* [2016年](https://bilicover.gitbooks.io/2016/)
-* [2017年](https://bilicover.gitbooks.io/2017/)
-* [回主页](https://bilicover.gitbooks.io/main/)
 
 ## 2015年
 * [2015-默认封面](20150000.md)
@@ -89,3 +86,8 @@
 * [2015.12.14-官博150w粉](20151214.md)
 * [2015.12.22-⑨来了](20151222.md)
 * [2015.12.24-平安夜](20151224.md)
+
+## 
+* [2016年&rarr;](https://bilicover.gitbooks.io/2016/)
+* [2017年&rarr;](https://bilicover.gitbooks.io/2017/)
+* [回主页](https://bilicover.gitbooks.io/main/)
