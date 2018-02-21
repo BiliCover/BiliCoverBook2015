@@ -92,7 +92,4 @@
 * [2015.12.24-平安夜](20151224.md)
 
 ## 
-* [2016年 &rarr;](https://bilicover.gitbooks.io/2016/content/)
-* [2017年 &rarr;](https://bilicover.gitbooks.io/2017/content/)
-* [2018年 &rarr;](https://bilicover.gitbooks.io/2018/content/)
-* [回主页](README.md)
+* [回主页](https://bilicover.github.io/)
